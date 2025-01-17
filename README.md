@@ -2,6 +2,8 @@
 
 This program is a robust Python application designed to assist researchers, students, and academics by automating the process of comparing bibliographies across multiple research papers. By focusing on efficiency and accuracy, the program identifies common sources, providing insights into shared references among different files.
 
+Here is the link to view how mathematical concepts, including set theory, were implemented in our code: https://www.canva.com/design/DAF1TCAkyfU/ywEaqUar1gn6GdJ6aCrgIw/view?utm_content=DAF1TCAkyfU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=ha0c6fe0bc5
+
 ---
 
 ## Features
